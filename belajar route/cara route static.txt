@@ -1,0 +1,6 @@
+Jadi router 1 melihat ip router 2 yang disambungkan ke client
+
+misal router 2 ipnya 
+192.168.3.1
+maka router 1 static ipnya
+192.168.3.0 
