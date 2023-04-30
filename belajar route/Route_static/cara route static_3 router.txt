@@ -1,0 +1,12 @@
+Jadi router 1 melihat ip router 2 yang disambungkan ke client
+
+misal router 2 ipnya 
+192.168.3.1
+maka router 1 static ipnya
+192.168.3.0 
+
+kemudian jika ada 3 router
+router 1 dan router 3 harus ada 3 static route
+untuk membaca route anak dari router 1 
+dan membaca router 1 dan sebaliknya
+

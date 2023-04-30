@@ -1,0 +1,6 @@
+jadi route ini berbeda dengan static
+
+gabungkan  router antar router
+serta router 1 untuk ip address default nya: misal
+192.168.1.1
+maka di routernya diketik 192.168.1.0
